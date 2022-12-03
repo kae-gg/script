@@ -1,5 +1,5 @@
 local games = {
-    ["3965173814"] = "swordslasher"
+    [3965173814] = "swordslasher"
 }
 
 local supported = games[game.GameId]
